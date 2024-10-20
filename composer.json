@@ -1,0 +1,35 @@
+{
+  "name": "lazervel/framework",
+  "description": "The Lazervel Framework is a lightweight PHP Framework.",
+  "type": "library",
+  "keywords": ["framework", "php", "lazervel"],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+    }
+  },
+  "require": {},
+  "require-dev": {},
+  "authors": [
+    {
+      "name": "Shahzada Modassir",
+      "email": "lazervel@gmail.com",
+      "homepage": "https://github.com/shahzadamodassir"
+    }
+  ],
+  "funding": [
+    {
+      "type": "Github",
+      "url": "https://github.com/shahzadamodassir"
+    },
+    {
+      "type": "Patreon",
+      "url": "https://patreon.com/shahzadamodassir"
+    },
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/shahzadamodassir"
+    }
+  ],
+  "minimum-stability": "dev"
+}
